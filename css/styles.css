@@ -1,0 +1,141 @@
+body{
+    font-family: 'Catamaran', sans-serif;
+}
+
+.top-navbar {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+}
+
+/* about page */
+
+.name-tagline{
+    font-weight: 400;
+    font-size: 40px;
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.contact-me-button {
+    margin-top: 10px
+}
+
+.headshot {
+    background-color: black;
+    width: 395px;
+    float: right;
+    margin-top: 50px;
+    margin-right: 70px;
+    
+    background: url(7128B5A6-D384-4DB5-9901-A0EF9D003F9A_1_105_c.jpg);
+    border: 6px solid #000000;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.line {
+    border: 2px solid #000000;
+    width: 203.47px;
+}
+
+/* experiences page */
+
+a {
+    color: black;
+    
+}
+
+a:hover {
+    color:#E8DAB2;
+}
+
+.company-name {
+    font-size: 20px;
+    line-height: 120%;
+    margin: 0
+}
+
+.company{
+    font-weight: 600;
+    font-size: 40px;
+}
+
+.title-date {
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 100%;
+    /* or 24px */
+    color: #717171;
+    margin: 0;
+}
+
+.description {
+    font-size: 20px;
+    line-height: 110%;
+}
+
+
+/* portfolio page */
+
+.portfolio-title {
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 100%;
+    /* or 60px */
+}
+
+.cover-image {
+    box-sizing: border-box;
+    border: 2px solid grey;
+    width: 65%;
+}
+
+.cover-image:hover {
+    transform: scale(1.1); 
+  }
+
+/* contact page */
+.contact-header {
+    width: 755px;
+    margin-left: 100px;
+}
+
+.contact-title {
+    font-size: 60px;
+    margin-bottom: 0;
+}
+
+.contact-description {
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 100%;
+    margin: 0;
+}
+
+.contact-me {
+    margin-left: 100px;
+    margin-top: 50px;
+}
+
+/*linkedin for students page */
+
+.header {
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 100%;
+    margin: 0px;
+}
+
+.spacing {
+    margin: 2% auto;
+}
+
+.short {
+    font-size: 18px;
+    font-style: normal;
+}
+
+.case-header {
+    margin: 2% auto;
+}
